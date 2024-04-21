@@ -2,10 +2,9 @@
   A Unity package with a C# implementation of a basic particle system.
 
 ## Preview
-  You can watch a video preview [here](preview.mp4).
-  <video width="1280" height="720" controls>
-    <source src="preview.mp4" type="video/mp4">
-  </video>
+  You can watch a video preview below.
+
+  https://github.com/EvangelosStefanos/particle-system-basic/blob/main/preview.mp4
 
 ## Requirements
   Developed and tested with Unity Editor version 2020.3.21f1.
