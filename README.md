@@ -4,7 +4,7 @@
 ## Preview
   You can watch a video preview below.
 
-  https://github.com/EvangelosStefanos/particle-system-basic/blob/main/preview.mp4
+https://github.com/EvangelosStefanos/particle-system-basic/blob/main/preview.mp4
 
 ## Requirements
   Developed and tested with Unity Editor version 2020.3.21f1.
