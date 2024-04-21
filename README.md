@@ -3,6 +3,9 @@
 
 ## Preview
   You can watch a video preview [here](preview.mp4).
+  <video width="1280" height="720" controls>
+    <source src="preview.mp4" type="video/mp4">
+  </video>
 
 ## Requirements
   Developed and tested with Unity Editor version 2020.3.21f1.
