@@ -6,7 +6,7 @@
   
   ![Project Video Preview](.gif)
 
-  https://raw.githack.com/EvangelosStefanos/particle-system-basic/main/preview.mp4
+https://raw.githack.com/EvangelosStefanos/particle-system-basic/main/preview.mp4
 
 ## Requirements
   Developed and tested with Unity Editor version 2020.3.21f1 although its not a strict requirement. Should work fine with most versions.
