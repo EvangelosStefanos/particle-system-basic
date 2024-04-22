@@ -13,4 +13,4 @@
   Includes a few sample scenes and Blender models as shown in the gif preview above.
 
 ## Package
-  An exported package is provided at [Unity/Exported](Unity/Exported). Import it in the Unity editor to add everything easily.
+  An exported Unity package is provided at [Unity/Exported](Unity/Exported). Import it in the Unity editor to add everything easily.
